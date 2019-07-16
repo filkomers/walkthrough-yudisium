@@ -61,7 +61,7 @@
     (jika diminta) kemudian ke Sekretaris Jurusan Lantai 5 (bila diminta)
 21. Kirim berkas yudisium dengan format berikut:
 
-    ![cover](/img/pengumpulan-akhir.png)
+    ![273440](https://user-images.githubusercontent.com/17443546/61262946-64944780-a7b1-11e9-9a66-f349cc761dc7.jpg)
 
 22. Ke lantai 6 bagian akademik, untuk daftar yudisium. Tunggu kira-kira 2 jam lalu
     diberi draft transkrip untuk dicek terlebih dahulu. Ikuti instruksi yang nanti
