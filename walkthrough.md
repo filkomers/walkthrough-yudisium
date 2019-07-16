@@ -15,8 +15,8 @@
    scan. Jilid hardcover warna biru (tidak harus timbul) dengan pembatas per bab
    (tanyakan di tempat print ada pembatas UB atau tidak) dan nama-nim, judul,
    tahun disamping buku.
-
-    ![cover](/img/cover.png)
+    
+    <img src="img/cover.png" width="250" height="300">
 
     Note:
     - 5 rangkap diberikan untuk: 1) dosbing-1 2) dosbing-2 3) perpus UB 4) ruang
@@ -36,7 +36,7 @@
 
     Lokasi 7A (Ged F lt 8)   |  Lokasi 7b (Ged B)
    :-------------------------:|:-------------------------:
-   <img src="/img/lokasi-7a.png" width="200" height="256"> |  <img src="/img/lokasi-7b.jpg" width="200" height="256">
+   <img src="/img/lokasi-7a.png" width="200" height="256"> |  <img src="/img/lokasi-7b.jpg" width="250" height="256">
 
 
     Note:
@@ -59,8 +59,8 @@
 
 8. Cetak form perubahan judul dan form unggah makalah di FILKOM APPS di bagian
    info ujian, lalu ke dosbing 1-2 untuk:
-
-   ![cover](/img/print-sc-16-17.png)
+   
+   <img src="/img/print-sc-16-17.png" width="700" height="130">
 
    - meminta ttd berkas SC2-16 dan SC2-17.
    - memberikan berkas jilidan skirpsi, untuk mendapat ttd pada point 3a, 3b,
@@ -83,8 +83,8 @@
     - nama lengkap mahasiswa - abstrak.pdf (inggris dan indoesia)
 
     bentuk cover CD:
-
-    ![cover](/img/cover-cd.jpg)
+    
+    <img src="/img/cover-cd.jpg" width="180" height="200">
 
     Note: Anda bisa mencetak cover CD diantaranya di [tempat berikut](howto.md#rekomendasi-tempat)
 
@@ -103,9 +103,9 @@
     dirapikan dan dicek terlebih dahulu. Minta memo ke Wakil Dekan I, lantai 7
     (jika diminta) kemudian ke Sekretaris Jurusan Lantai 5 (bila diminta)
 
-17. Kirim berkas yudisium dengan format berikut:
+17. Kirim berkas yudisium dengan format berikut (*click to enlarge image*):
 
-    ![cover](/img/pengumpulan-akhir.png)
+    <img src="/img/pengumpulan-akhir.png" width="200" height="300">
 
 18. Ke lantai 6 bagian akademik, untuk daftar yudisium. Tunggu kira-kira 2 jam lalu
     diberi draft transkrip untuk dicek terlebih dahulu. Ikuti instruksi yang nanti
