@@ -46,7 +46,7 @@
 5. Sebelum memberikan skripsi yang telah terjilid ke pak Kajur:
    - pindahkan pita pembatas pada lembar pengesahan
    - tandatangi lembar orisinalitas di atas materai Rp 6 ribu
-   - tunjukkan lihat ke akademik lt 1, untuk diberikan paraf tanda bahwa format
+   - tunjukkan ke akademik lt 1, untuk diberikan paraf tanda bahwa format
     dokumen sudah benar.
 
 6. Letakkan hasil scan orisinalitas dan pengesahan dalam _soft file_ berkas
@@ -69,44 +69,52 @@
 9. Ke akademik lt 1 untuk centang poin 2 bebas tanggungan revisi dkk dengan bawa
    fotokopi SC2-13, SC2-16, dan SC2-17.
 
-11. Scan SC2-16 dan SC2-17. **keduanya telah  ditandantangi dosen pembimbing 1-2**
+10. Scan SC2-16 dan SC2-17. **keduanya telah  ditandantangi dosen pembimbing 1-2**
 
-12. Daftar di
+11. Daftar di
     [J-PTIIK](http://j-ptiik.ub.ac.id/index.php/j-ptiik/user/register). Kemudian
     lakukan [pengumpulan jurnal](panduan-unggah-jurnal.md). Estimasi pemeriksaan
-    1-4 Jam (akhir semester atau sepi) atau 3-4 hari kerja (hari biasa).
+    1-4 Jam (akhir semester atau sepi) atau 3-4 hari kerja (hari biasa). Hindari
+    [kesalahan umum pengumpulan jurnal](kesalahan-umum.md#mengumpulkan-jurnal)
+    yang sering terjadi.
 
-13. Sambil menunggu PSIK, burn CD untuk ke Perpustakaan, dalam format berikut:
+12. Sambil menunggu PSIK, burn CD untuk ke Perpustakaan, dalam format berikut:
     - nama lengkap mahasiswa - skripsi.pdf (satu berkas penuh, jangan di pecah perbab)
     - nama lengkap mahasiswa - abstrak.pdf (inggris dan indoesia)
 
-14. Pergilah ke perpustakaan UB dengan membawa berkas jilidan skirpsi, CD yang
+    bentuk cover CD:
+
+    ![cover](/img/cover-cd.jpg)
+
+    Note: Anda bisa mencetak cover CD diantaranya di [tempat berikut](howto.md#rekomendasi-tempat)
+
+13. Pergilah ke perpustakaan UB dengan membawa berkas jilidan skirpsi, CD yang
     berisi berkas diatas, dan uang Rp 50 ribu untuk biaya bebas tanggungan.
 
-15. Jika jurnal telah ter-_publish_. Pergilah membawa CD yang berisi berkas
+14. Jika jurnal telah ter-_publish_. Pergilah membawa CD yang berisi berkas
     sesuai format pada surel yang dikirim PSIK. Jangan lupa membawa form SC2-18
     untuk di ttd.
 
-16. Berikan dokumen terjilid untuk diberikan ke ruang baca FILKOM, beserta CD
+15. Berikan dokumen terjilid untuk diberikan ke ruang baca FILKOM, beserta CD
     dengan format yang sama seperti format [CD PSIK](panduan-unggah-jurnal.md).
     Jangan lupa membawa form SC2-18 untuk di ttd.
 
-20. Jika semua potint telah dicentang, cek ke staff akademik lantai 1 untuk
+16. Jika semua potint telah dicentang, cek ke staff akademik lantai 1 untuk
     dirapikan dan dicek terlebih dahulu. Minta memo ke Wakil Dekan I, lantai 7
     (jika diminta) kemudian ke Sekretaris Jurusan Lantai 5 (bila diminta)
 
-21. Kirim berkas yudisium dengan format berikut:
+17. Kirim berkas yudisium dengan format berikut:
 
     ![cover](/img/pengumpulan-akhir.png)
 
-22. Ke lantai 6 bagian akademik, untuk daftar yudisium. Tunggu kira-kira 2 jam lalu
+18. Ke lantai 6 bagian akademik, untuk daftar yudisium. Tunggu kira-kira 2 jam lalu
     diberi draft transkrip untuk dicek terlebih dahulu. Ikuti instruksi yang nanti
     diberikan dari petugasnya lalu fotokopi draft transkrip dan berkas yudisium yang
     telah diberi nomor dan lengkap dengan ttd Kasubag Akademik. Fotokopi dibuat 2
     rangkap untuk jaga-jaga. Yang asli diberkan kembali ke bagian akademik. Tunggu
     informasinya di [Twitter FILKOM](https://twitter.com/filkomUB).
 
-23. _Refreshing!_
+19. _Refreshing!_
 
 TIPS: **Selesain yang bisa dikejar di hari itu juga. Estimasi ± seminggu**
 
