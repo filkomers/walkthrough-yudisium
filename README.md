@@ -4,8 +4,9 @@
 Dokumen ini disusun untuk memudahkan teman-teman dalam mengurus proses yudisium
 di FILKOM.
 
-- [Walkthrough yudisium](walkthrough.md)
-- [Panduan unggah jurnal](panduan-unggah-jurnal.md)
+- [Walkthrough Yudisium](walkthrough.md)
+- [Panduan Unggah Jurnal](panduan-unggah-jurnal.md)
+- [Daftar Kesalahan Umum](kesalahan-umum.md)
 
 ## Why?
 
@@ -33,4 +34,4 @@ Jika ada masalah terkait dokumen ini, jangan ragu untuk membuat _issue_.
 
 [![BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](http://creativecommons.org/licenses/by/4.0/)
 
-The logo was designed using [TextCraft](https://textcraft.net).
+Logo dirancang menggunakan [TextCraft](https://textcraft.net).
