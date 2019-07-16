@@ -32,7 +32,7 @@
 
     7A                        |  7b
    :-------------------------:|:-------------------------:
-   <img src="/img/pe-ttd-7b.png" width="200" height="256"> |  <img src="/img/pe-ttd-7b.png" width="200" height="256">
+   <img src="/img/pe-ttd-7a.png" width="400" height="200"> |  <img src="/img/pe-ttd-7b.png" width="400" height="200">
 
     Lokasi 7A (Ged F lt 8)   |  Lokasi 7b (Ged B)
    :-------------------------:|:-------------------------:
