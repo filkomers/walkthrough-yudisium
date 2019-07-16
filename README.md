@@ -7,6 +7,8 @@ di FILKOM.
 - [Walkthrough Yudisium](walkthrough.md)
 - [Panduan Unggah Jurnal](panduan-unggah-jurnal.md)
 - [Daftar Kesalahan Umum](kesalahan-umum.md)
+- [How To](howto.md)
+
 
 ## Why?
 
