@@ -10,6 +10,10 @@ Gunakan [ImageMagick](https://imagemagick.org/index.php)
 
 - Jalankan ini pada terminal `convert ori.jpg -background white -page a4 ori.pdf`
 
+## Burning CD
+
+- Gunakan [K3b](https://userbase.kde.org/K3b)
+
 ## Rekomendasi Tempat
 
 Hal ini dimaksudkan untuk meminimalisir kesalahan. Tempat yang marak dikunjungi
