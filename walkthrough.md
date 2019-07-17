@@ -15,8 +15,10 @@
    scan. Jilid hardcover warna biru (tidak harus timbul) dengan pembatas per bab
    (tanyakan di tempat print ada pembatas UB atau tidak) dan nama-nim, judul,
    tahun disamping buku.
-    
+
+    <p align="center">
     <img src="img/cover.png" width="250" height="300">
+    </p>
 
     Note:
     - 5 rangkap diberikan untuk: 1) dosbing-1 2) dosbing-2 3) perpus UB 4) ruang
@@ -32,11 +34,11 @@
 
     7A                        |  7b
    :-------------------------:|:-------------------------:
-   <img src="/img/pe-ttd-7a.png" width="400" height="200"> |  <img src="/img/pe-ttd-7b.png" width="400" height="200">
+   <img src="img/pe-ttd-7a.png" width="300" height="100"> |  <img src="img/pe-ttd-7b.png" width="300" height="100">
 
     Lokasi 7A (Ged F lt 8)   |  Lokasi 7b (Ged B)
    :-------------------------:|:-------------------------:
-   <img src="/img/lokasi-7a.png" width="200" height="256"> |  <img src="/img/lokasi-7b.jpg" width="250" height="256">
+   <img src="img/lokasi-7a.png" width="150" height="150"> |  <img src="img/lokasi-7b.jpg" width="150" height="150">
 
 
     Note:
@@ -59,8 +61,10 @@
 
 8. Cetak form perubahan judul dan form unggah makalah di FILKOM APPS di bagian
    info ujian, lalu ke dosbing 1-2 untuk:
-   
-   <img src="/img/print-sc-16-17.png" width="700" height="130">
+
+   <p align="center">
+   <img src="img/print-sc-16-17.png" width="500" height="80">
+   </p>
 
    - meminta ttd berkas SC2-16 dan SC2-17.
    - memberikan berkas jilidan skirpsi, untuk mendapat ttd pada point 3a, 3b,
@@ -83,8 +87,10 @@
     - nama lengkap mahasiswa - abstrak.pdf (inggris dan indoesia)
 
     bentuk cover CD:
-    
-    <img src="/img/cover-cd.jpg" width="180" height="200">
+
+    <p align="center">
+    <img src="img/cover-cd.jpg" width="180" height="200">
+    </p>
 
     Note: Anda bisa mencetak cover CD diantaranya di [tempat berikut](howto.md#rekomendasi-tempat)
 
@@ -105,7 +111,9 @@
 
 17. Kirim berkas yudisium dengan format berikut (*click to enlarge image*):
 
-    <img src="/img/pengumpulan-akhir.png" width="200" height="300">
+    <p align="center">
+    <img src="img/pengumpulan-akhir.png" width="300" height="400">
+    </p>
 
 18. Ke lantai 6 bagian akademik, untuk daftar yudisium. Tunggu kira-kira 2 jam lalu
     diberi draft transkrip untuk dicek terlebih dahulu. Ikuti instruksi yang nanti

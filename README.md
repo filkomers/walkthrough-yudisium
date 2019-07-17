@@ -1,4 +1,4 @@
-![cover](/img/banner.png)
+![cover](img/banner.png)
 
 
 Dokumen ini disusun untuk memudahkan teman-teman dalam mengurus proses yudisium

@@ -4,16 +4,24 @@
    - isi "afiliasi" dengan: Universitas Brawijaya
    - "apakah anda bersedia mereview" tidak usah dicentang
 
-   ![cover](/img/jurnal-1.png)
+    <p align="center">
+    <img src="img/jurnal-1.png" width="500" height="400"> 
+    </p>
 
 2. Pilih "naskah baru"
 
-   ![cover](/img/jurnal-2.png)
+   <p align="center">
+   <img src="img/jurnal-2.png" width="600" height="400"> 
+   </p>
+
 
 3. Isi bagian ini:
    - Komentar untuk editor tidak perlu di isi
 
-   ![cover](/img/jurnal-3.png)
+   <p align="center">
+   <img src="img/jurnal-3.png" width="800" height="300"> 
+   </p>
+
 
 4. Unggah dokumen yang diminta:
    - Dokumen dalam bentuk * **.doc** atau *. **docx** (bukan *.pdf)
@@ -31,7 +39,7 @@
 
    Benar                      |  Salah
    :-------------------------:|:-------------------------:
-   <img src="/img/jurnal-benar.png" width="200" height="256"> |  <img src="/img/jurnal-salah.png" width="200" height="256">
+   <img src="img/jurnal-benar.png" width="200" height="256"> |  <img src="img/jurnal-salah.png" width="200" height="256">
 
 
 7. Lanjutkan ke [tahap selanjutnya](walkthrough.md) jika benar, ulangi dari langkah 2 jika salah.
