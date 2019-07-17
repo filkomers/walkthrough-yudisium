@@ -5,13 +5,13 @@
    - "apakah anda bersedia mereview" tidak usah dicentang
 
     <p align="center">
-    <img src="img/jurnal-1.png" width="500" height="400"> 
+    <img src="img/jurnal-1.png" width="500" height="400">
     </p>
 
 2. Pilih "naskah baru"
 
    <p align="center">
-   <img src="img/jurnal-2.png" width="600" height="400"> 
+   <img src="img/jurnal-2.png" width="600" height="400">
    </p>
 
 
@@ -19,7 +19,7 @@
    - Komentar untuk editor tidak perlu di isi
 
    <p align="center">
-   <img src="img/jurnal-3.png" width="800" height="300"> 
+   <img src="img/jurnal-3.png" width="800" height="300">
    </p>
 
 
@@ -28,7 +28,22 @@
    - Siapkan scan SC2- 12 dan SC2-17, dan berkas hasil cek plagiasi jurnal dari
      Turnitin (**seluruh berkas, tidak hanya presentase plagiasinya**)
    - Print Pertanyaan Etika Publikasi dan ttd sendiri lalu scan
-   - Print Perjanjian hak cipta dan ttd sendiri lalu scan
+   - Print Perjanjian hak cipta dan ttd sendiri lalu scan (**Perhatikan apa yang
+     harus di centang, diskusikan dengan teman anda**)
+
+    Note:
+    Ketika proses pengunggahan jurnal, bagian ini tidak perlu diisi. Langsung
+    pilih "Lanjutkan"
+
+    <p align="center">
+    <img src="img/jurnal-abaikan.jpg" width="400" height="200">
+    </p>
+
+    Jika tidak ada "kutipan utuh" umumnya yang dicentang adalah:
+
+    <p align="center">
+    <img src="img/hak-cipta.png" width="400" height="150">
+    </p>
 
 5. Selanjutnya hanya mengikuti perintah yang tertera seperti menaruh abstak, kata
     kunci, judul bahasa Indonesia dan Inggris
