@@ -10,6 +10,12 @@
    batas putih disamping foto sebanyak 6 buah + fotokopi KTM dimasukkan ke
    plastik transparan. **Fotokopi ijazah SMA/K yang sudah dilegalisir** dibawa
    dan discan (nanti akan diminta untuk mengunggah).
+   
+   Contoh Pas Photo:
+   <p align="center">
+       <img src="img/contoh-pas-photo.jpg" width="100" height="150">
+   </p>
+
 
 3. Jilid dokumen skripsi 5 rangkap + 1 lembar pengesahan & orisinalitas untuk di
    scan. Jilid hardcover warna biru (tidak harus timbul) dengan pembatas per bab
@@ -108,8 +114,9 @@
     - Minta memo ke Wakil Dekan I, lantai 7 (jika diminta) kemudian ke
       Sekretaris Jurusan Lantai 5 (bila diminta)
 
-17. Kirim berkas yudisium dengan format berikut (*click to enlarge image*):
-
+17. Kirim berkas yudisium dengan format berikut. Subjek email bebas, tidak ada
+    ketentuan. (*click to enlarge image*):
+    
     <p align="center">
     <img src="img/pengumpulan-akhir.png" width="300" height="400">
     </p>
