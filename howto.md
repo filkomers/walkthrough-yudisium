@@ -18,9 +18,10 @@ kesalahan. Kita tidak perlu lagi menjelaskan keperluan kita panjang lebar.
 
 - Jilid Skirpsi
   - Maestro
-  - Sarjana
+  - Sarjana2
 - Pas Photo
   - Studio8
 - Print Cover CD
   - Kopma UB
-
+- Plastik Klip untuk KTM dan Pas Photo
+  - Sarjana2

@@ -122,6 +122,10 @@
       hingga dibuatkan transkrip. Lalu FC transkrip dan form SC2-18 yang telah
       di ttd kasubag akademik (yang asli diberkan kembali ke bagian akademik). Tunggu
       informasinya di [Twitter FILKOM](https://twitter.com/filkomUB).
+      
+      Note: Pas photo dan KTM dimasukkan dalam plastik berklip. Plastik klip
+      yang muat untuk KTM (tidak terlalu besar dan tidak terlalu kecil) dapat di
+      dapatkan [tempat berikut](howto.md#rekomendasi-tempat).
 
 19. _Refreshing!_ 🎉
 
