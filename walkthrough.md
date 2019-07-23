@@ -10,7 +10,7 @@
    batas putih disamping foto sebanyak 6 buah + fotokopi KTM dimasukkan ke
    plastik transparan. **Fotokopi ijazah SMA/K yang sudah dilegalisir** dibawa
    dan discan (nanti akan diminta untuk mengunggah).
-   
+
    Contoh Pas Photo:
    <p align="center">
        <img src="img/contoh-pas-photo.jpg" width="100" height="150">
@@ -72,7 +72,8 @@
    <img src="img/print-sc-16-17.png" width="500" height="80">
    </p>
 
-   - meminta ttd berkas SC2-16 dan SC2-17.
+   - meminta ttd berkas SC2-16 dan SC2-17. (Kosongkan isi "Judul Skripsi Revisi"
+     jika tidak ada revisi pada judul)
    - memberikan berkas jilidan skirpsi, untuk mendapat ttd pada point 3a, 3b,
      4a, dan 4b.
 
@@ -95,7 +96,10 @@
     <img src="img/cover-cd.jpg" width="180" height="200">
     </p>
 
-    Note: Anda bisa mencetak cover CD diantaranya di [tempat berikut](howto.md#rekomendasi-tempat)
+    Note:
+    - Anda bisa mencetak cover CD diantaranya di [tempat berikut](howto.md#rekomendasi-tempat)
+    - Tidak ada ketententuan nama volume CD, tetapi sebaiknya gantilah nama
+      volume CD ke nama anda. e.g "Data 01-01-2019" -> "Ibnu Musa".
 
 12. Pergilah ke perpustakaan UB dengan membawa berkas jilidan skirpsi, CD yang
     berisi berkas diatas, dan uang Rp 50 ribu untuk biaya bebas tanggungan.
@@ -103,6 +107,12 @@
 13. Jika jurnal telah ter-_publish_. Pergilah membawa CD yang berisi berkas
     sesuai format pada surel yang dikirim PSIK. Jangan lupa membawa form SC2-18
     untuk di ttd.
+
+    Note:
+    - PDF jurnal didapatkan dengan mengunduh jurnal yang terpublish di jptiik,
+      sedangkan docx dari jurnal didapatkan dengan mengubah docx yang sebelumnya
+      di _submit_ dengan **mengubah halaman dan tata letak** agar sesuai dengan PDF
+      jurnal yang terpublish
 
 14. Berikan dokumen terjilid untuk diberikan ke ruang baca FILKOM, beserta CD
     dengan format yang sama seperti format [CD PSIK](panduan-unggah-jurnal.md).
@@ -116,7 +126,7 @@
 
 17. Kirim berkas yudisium dengan format berikut. Subjek email bebas, tidak ada
     ketentuan. (*click to enlarge image*):
-    
+
     <p align="center">
     <img src="img/pengumpulan-akhir.jpg" width="300" height="400">
     </p>
@@ -126,13 +136,20 @@
     - Diberi paraf untuk point 9 dan 10
     - Meminta ttd ke seketaris jusuran (Pak Furqan)
     - Mengembalikan berkas SC2-18 yang telah di ttd sekjur ke lt 6. Menunggu
-      hingga dibuatkan transkrip. Lalu FC transkrip dan form SC2-18 yang telah
-      di ttd kasubag akademik (yang asli diberkan kembali ke bagian akademik). Tunggu
-      informasinya di [Twitter FILKOM](https://twitter.com/filkomUB).
-      
-      Note: Pas photo dan KTM dimasukkan dalam plastik berklip. Plastik klip
-      yang muat untuk KTM (tidak terlalu besar dan tidak terlalu kecil) dapat di
-      dapatkan [tempat berikut](howto.md#rekomendasi-tempat).
+      hingga dibuatkan transkrip (umumnya satu hari). Lalu FC transkrip dan form
+      SC2-18 yang telah di ttd kasubag akademik (yang asli diberkan kembali ke
+      bagian akademik). Tunggu informasinya di [Twitter FILKOM](https://twitter.com/filkomUB).
+
+      Note:
+      - Pas photo dan KTM dimasukkan dalam plastik berklip. Plastik klip
+        yang muat untuk KTM (tidak terlalu besar dan tidak terlalu kecil) dapat di
+        dapatkan [tempat berikut](howto.md#rekomendasi-tempat).
+      - Ketika diberikan transkrip dalam bentuk draft oleh akademik (sebelum
+        diminta fc), silahkan cek:
+            - nama & tangggal lahir.
+            - judul bahasa inggris & bahasa indonesia.
+            - cek (total nilai / jumlah sks) apakah telah sesuai dengan IPK yang terteta.
+
 
 19. _Refreshing!_ 🎉
 

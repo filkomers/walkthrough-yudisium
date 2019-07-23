@@ -24,12 +24,13 @@
 
 
 4. Unggah dokumen yang diminta:
-   - Dokumen dalam bentuk * **.doc** atau *. **docx** (bukan *.pdf)
-   - Siapkan scan SC2- 12 dan SC2-17, dan berkas hasil cek plagiasi jurnal dari
-     Turnitin (**seluruh berkas, tidak hanya presentase plagiasinya**)
-   - Print Pertanyaan Etika Publikasi dan ttd sendiri lalu scan
+   - Dokumen dalam bentuk * **.doc** atau *. **docx** (bukan *.pdf).
+   - Siapkan scan SC2-12 dan SC2-17, dan berkas hasil cek plagiasi jurnal dari
+     Turnitin (**seluruh berkas, tidak hanya presentase plagiasinya**).
+   - Print Pertanyaan Etika Publikasi dan ttd sendiri lalu scan (usahakan
+     berformat PDF).
    - Print Perjanjian hak cipta dan ttd sendiri lalu scan (**Perhatikan apa yang
-     harus di centang, diskusikan dengan teman anda**)
+     harus di centang, diskusikan dengan teman anda**) (usahakan berformat PDF).
 
     Note:
     Ketika proses pengunggahan jurnal, bagian ini tidak perlu diisi. Langsung
@@ -46,9 +47,17 @@
     </p>
 
 5. Selanjutnya hanya mengikuti perintah yang tertera seperti menaruh abstak, kata
-    kunci, judul bahasa Indonesia dan Inggris
+   kunci, judul bahasa Indonesia dan Inggris
 
-6. Pemberitahuan dari PSIK:
+    Note:
+    - tinggalkan "daftar penlis" seperti dibawah ini (tidak perlu di
+      tambah-tambah)
+
+      <p align="center">
+      <img src="img/jurnal-nama-penulis.jpg" width="700" height="150">
+      </p>
+
+6. Pemberitahuan dari PSIK (*click to enlarge image*):
    - jika benar
    - jika salah
 
