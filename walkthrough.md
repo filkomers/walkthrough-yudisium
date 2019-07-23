@@ -118,7 +118,7 @@
     ketentuan. (*click to enlarge image*):
     
     <p align="center">
-    <img src="img/pengumpulan-akhir.png" width="300" height="400">
+    <img src="img/pengumpulan-akhir.jpg" width="300" height="400">
     </p>
 
 18. Ke lantai 6 bagian akademik untuk daftar yudisium, dengan membawa Pas Photo
