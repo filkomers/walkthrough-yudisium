@@ -31,6 +31,14 @@ Saat membuat _pull request_ silahkan masukkan nama anda dalam berkas [AUTHORS](A
 
 Jika ada masalah terkait dokumen ini, jangan ragu untuk membuat _issue_.
 
+## Jaminan (_Warranty_)
+
+Kami tidak menjamin seluruh data pada daftar ini selalu benar dan mutakhir,
+mengingat seluruh data ini tidak resmi dan hanya dibuat untuk membantu
+memudahkan. Oleh karena itu, kami tidak bertanggung jawab jika ada
+ketidakcocokan data. Seluruh data ini ditulis berdasarkan apa yang telah
+dilewati oleh [AUTHORS](AUTHORS.md).
+
 ## Lisensi
 
 [![BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](http://creativecommons.org/licenses/by/4.0/)
