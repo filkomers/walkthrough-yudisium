@@ -104,19 +104,16 @@
 12. Pergilah ke perpustakaan UB dengan membawa berkas jilidan skirpsi, CD yang
     berisi berkas diatas, dan uang Rp 50 ribu untuk biaya bebas tanggungan.
 
-13. Jika jurnal telah ter-_publish_, Pergilah membawa CD yang berisi berkas
-    sesuai format pada surel yang diterima ke PSIK di lantai 10 gedung F (Ruang _Helpdesk_).
-    Jangan lupa membawa form SC2-18 untuk di ttd.
+13. Jika jurnal telah ter-_publish_, Siapkan CD yang berisi berkas-berkas
+    sesuai format pada surel yang kalian terima. Kemudian, pergilah membawa CD tersebut
+    menuju PSIK di lantai 10 gedung F (Ruang _Helpdesk_). Jangan lupa membawa
+    form SC2-18 untuk di ttd.
 
     Note:
     - PDF jurnal didapatkan dengan mengunduh jurnal yang ter-_publish_ di jptiik,
       sedangkan docx dari jurnal didapatkan dengan mengubah docx yang sebelumnya
       di _submit_ dengan **mengubah halaman dan tata letak** agar sesuai dengan PDF
       jurnal yang terpublish
-    - Berikut contoh surel yang diterima apabila jurnal telah ter-_publish_
-    <p align="center">
-    <img src="img/Surel-publish.PNG" width="472" height="252">
-    </p>
 
 14. Berikan dokumen terjilid untuk diberikan ke ruang baca FILKOM, beserta CD
     dengan format yang sama seperti format [CD PSIK](panduan-unggah-jurnal.md).
