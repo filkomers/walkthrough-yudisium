@@ -115,7 +115,7 @@
       jurnal yang terpublish
     - Berikut contoh surel yang diterima apabila jurnal telah ter-_publish_
     <p align="center">
-    <img src="img/cover-cd.jpg" width="315" height="168">
+    <img src="img/surel-publish.PNG" width="315" height="168">
     </p>
 
 14. Berikan dokumen terjilid untuk diberikan ke ruang baca FILKOM, beserta CD
