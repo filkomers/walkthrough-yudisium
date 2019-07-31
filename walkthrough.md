@@ -42,7 +42,7 @@
    :-------------------------:|:-------------------------:
    <img src="img/pe-ttd-7a.png" width="300" height="100"> |  <img src="img/pe-ttd-7b.png" width="300" height="100">
 
-    Lokasi 7A (Ged F lt 8)   |  Lokasi 7b (Ged B)
+    Lokasi 7A (Ged F lt 10)   |  Lokasi 7b (Ged B)
    :-------------------------:|:-------------------------:
    <img src="img/lokasi-7a.png" width="150" height="150"> |  <img src="img/lokasi-7b.jpg" width="150" height="150">
 
