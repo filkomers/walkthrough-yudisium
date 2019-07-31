@@ -148,7 +148,8 @@
         diminta fc), silahkan cek:
             - nama & tangggal lahir.
             - judul bahasa inggris & bahasa indonesia.
-            - cek (total nilai / jumlah sks) apakah telah sesuai dengan IPK yang terteta.
+            - cek apakah nilai IPK telah sesuai, dengan cara `nilai ipk = total
+              nilai ÷ jumlah sks`
 
 
 19. _Refreshing!_ 🎉
