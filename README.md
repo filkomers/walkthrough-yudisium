@@ -31,6 +31,15 @@ Saat membuat _pull request_ silahkan masukkan nama anda dalam berkas [AUTHORS](A
 
 Jika ada masalah terkait dokumen ini, jangan ragu untuk membuat _issue_.
 
+### Tidak yakin untuk berkontribusi?
+
+- [How to Use Github](https://guides.github.com/activities/forking/)
+- [How to Git from the Command Line](https://rogerdudler.github.io/git-guide/)
+- [What is Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown
+  is the writing method used to create this list, if you want to know how to
+  format properly, it's best that you learn how to use Github Markdown.
+- [Alternative Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+
 ## Jaminan (_Warranty_)
 
 Kami tidak menjamin seluruh data pada daftar ini selalu benar dan mutakhir,
