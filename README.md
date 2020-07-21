@@ -5,6 +5,7 @@ Dokumen ini disusun untuk memudahkan teman-teman dalam mengurus proses yudisium
 di FILKOM.
 
 - [Walkthrough Yudisium](walkthrough.md)
+- [Walkthrough Yudisium Online Berkaitan dengan Corona](walkthrough-online.md)
 - [Panduan Unggah Jurnal](panduan-unggah-jurnal.md)
 - [Daftar Kesalahan Umum](kesalahan-umum.md)
 - [HowTo dan Rekomendasi Tempat](howto.md)

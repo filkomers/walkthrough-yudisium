@@ -23,6 +23,7 @@ kesalahan. Kita tidak perlu lagi menjelaskan keperluan kita panjang lebar.
 - Jilid Skirpsi
   - Maestro
   - Sarjana2
+  - [Asahi](https://goo.gl/maps/BvHqUF2nhfpXro9a9) 
 - Pas Photo
   - Studio8
 - Print Cover CD
